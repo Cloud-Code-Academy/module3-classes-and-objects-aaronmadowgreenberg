@@ -315,7 +315,7 @@ public with sharing class ClassesObjectsMethods {
     public class Person {
         private String name; // title// Declare private two instance variables - (TEXT) name and (Number) age
         private Integer age;
-        // Constructor to initialize the name and age 
+        // Constructor to initialize the name and age  
         public Person (String name, Integer age) {
             this.name=name;
             this.age=age;
